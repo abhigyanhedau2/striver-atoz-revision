@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.soql": "soql",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
